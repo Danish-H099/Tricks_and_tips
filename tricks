@@ -1,0 +1,2 @@
+Hack the Chrome Dino Game
+  Runner.prototype.gameOver = function(){}
